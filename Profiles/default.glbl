@@ -4,4 +4,29 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gist.github.com/discover'</initValue>
+      <name>dtGitHubGistDiscovery</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>dtUsername</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>dtPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://gist.github.com/'</initValue>
+      <name>dtGitHubGist</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'48d28d9870977e6829a1b20c5e9a9e8b'</initValue>
+      <name>dtGistID</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
